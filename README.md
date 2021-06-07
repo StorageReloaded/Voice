@@ -13,6 +13,7 @@ The following ones are supported:
 * [Rhasspy](https://github.com/rhasspy/rhasspy)
 
 Checkout the different sub directories for further details:
+* [Rhasspy Skill](https://github.com/StorageReloaded/Voice/tree/master/rhasspy)
 
 or go to the [Wiki](https://github.com/StorageReloaded/StoRe/wiki) to get the installation instructions.
 
