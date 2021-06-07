@@ -50,5 +50,5 @@ client.on_connect = on_connect
 client.on_disconnect = on_disconnect
 client.on_message = on_message
 
-client.connect(, SKILL_PORT)
+client.connect(SKILL_HOST, SKILL_PORT)
 client.loop_forever()
